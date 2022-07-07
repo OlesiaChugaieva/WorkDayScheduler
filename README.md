@@ -1,13 +1,15 @@
 # WorkDayScheduler
-This is a simple calendar application that allows a user to save events for each hour of the day.
 
+#Description:
+This is a simple calendar application that allows a user to save events for each hour of the day.
+</br>
 
 Acceptance criteria:
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
+GIVEN I am using a daily planner to create a schedule </br>
+WHEN I open the planner </br>
+THEN the current day is displayed at the top of the calendar </br>
+WHEN I scroll down</br>
+THEN I am presented with time blocks for standard business hours </br>
 WHEN I view the time blocks for that day
 THEN each time block is color-coded to indicate whether it is in the past, present, or future
 WHEN I click into a time block
